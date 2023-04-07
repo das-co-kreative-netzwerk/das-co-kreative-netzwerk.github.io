@@ -7,3 +7,27 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+
+  - title: Simmelfolk Festival
+    children:
+    - title: "Overview"
+      url: /simmelfolk/overview/
+    - title: "Programm"
+      url: /simmelfolk/program/
+    - title: "Bands"
+      url: /simmelfolk/bands/
+    - title: "Nützliches"
+      url: /simmelfolk/utilities/
+
+  - title: Das co-kreative Netzwerk
+    children:
+    - title: "Der Verein"
+      url: /ckn/verein/
+    - title: "Beitreten"
+      url: /ckn/join/
+    - title: "Satzung"
+      url: /ckn/satzung/
+    - title: "Beitragsordnung"
+      url: /ckn/beitragsordnung/

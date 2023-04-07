@@ -94,6 +94,13 @@ defaults:
   - scope:
       path: ""
       type: home
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
   # _posts
   - scope:
       path: "_posts"
