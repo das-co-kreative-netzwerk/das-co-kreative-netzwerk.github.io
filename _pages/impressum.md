@@ -3,15 +3,19 @@ permalink: /impressum/
 title: "Impressum"
 ---
 
-## Anschrift
+## Angaben gemäß § 5 TMG
 
-Das co-kreative Netzwerk \\
-Anschrift Zeile 1 \\
-Anschrift Zeile 2 \\
+```text
+Das co-kreative Netzwerk
+Melanie Meichsner
+Bühl 3
+91245 Simmelsdorf
+```
 
-Elektronische Nachrichten an: das.cokreative.netzwerk@gmail.com
+- Elektronische Nachrichten an: das.cokreative.netzwerk@gmail.com
+- Telefon: +49 1577-8817329
 
-- Vertretungsberechtigte Vorstandsvorsitzende: Melanie Meichsner
+- Vertreten durch Melanie Meichsner
 - Verantwortliche i.S.d. §55 Abs. 2 RStV: Melanie Meichner
 
 ## Vereinsregister und Steuernummer
