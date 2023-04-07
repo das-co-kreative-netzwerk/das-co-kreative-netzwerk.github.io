@@ -97,10 +97,6 @@ defaults:
   - scope:
       path: ""
       type: home
-  # _docs
-  - scope:
-      path: ""
-      type: docs
     values:
       sidebar:
         nav: "docs"
@@ -116,6 +112,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
@@ -123,6 +121,8 @@ defaults:
     values:
       layout: single
       #author_profile: true
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid
