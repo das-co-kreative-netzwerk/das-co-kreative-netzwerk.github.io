@@ -88,6 +88,9 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
+    - label: "Impressum"
+      #icon: "fab fa-fw fa-instagram"
+      url: "/impressum/"
 
 defaults:
   # Homepage
