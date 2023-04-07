@@ -10,8 +10,9 @@ header:
     url: "/_pages/join.md"
 excerpt: >
   Ein gemeinnütziger Verein zu Förderung co-kreativer Projekte
-intro: >
-  Ein anfänglicher Intro-Text über den Verein, der **Markdown** _enhalten_ darf.
+intro:
+  - excerpt: >
+    Ein anfänglicher Intro-Text über den Verein, der **Markdown** _enhalten_ darf.
 feature_row:
   - image_path: assets/images/folklore-g6625442e9-300px.png
     #alt: "customizable"
