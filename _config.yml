@@ -93,6 +93,10 @@ footer:
       url: "/impressum/"
 
 defaults:
+  # Homepage
+  - scope:
+      path: ""
+      type: home
   # _docs
   - scope:
       path: ""
